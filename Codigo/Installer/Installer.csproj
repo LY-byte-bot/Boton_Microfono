@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Instalar-Boton-Microfono</AssemblyName>
+    <Version>1.6.0</Version>
+    <Authors>SISTEMAS LY</Authors>
+    <Company>SISTEMAS LY</Company>
+    <Product>Instalador de Botón Micrófono</Product>
+    <Copyright>Copyright © 2026 SISTEMAS LY. Todos los derechos reservados.</Copyright>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\build-v1.6.0\BotonMicrofono.exe" LogicalName="BotonMicrofono.exe" />
+    <EmbeddedResource Include="TERMS.txt" LogicalName="Terms.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+# Compilación y temporales
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Entorno local y cachés
+.dotnet/
+.dotnet-home/
+.nuget-packages/
+.nsis/
+dotnet-install.ps1
+
+# Instaladores y ejecutables compilados
+Instaladores/
+build-v*/
+Aplicacion/
+*.exe
+
+# Entornos de desarrollo
+.vs/
+.vscode/
+*.user

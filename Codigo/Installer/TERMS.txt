@@ -1,0 +1,114 @@
+TÉRMINOS Y CONDICIONES DE USO
+“BOTÓN MICRÓFONO”
+
+Última actualización: 7 de agosto de 2026
+
+Estos Términos y Condiciones regulan el uso del programa informático denominado “Botón Micrófono”, propiedad de SISTEMAS LY. Al instalar, ejecutar o utilizar este programa, el usuario declara haber leído, comprendido y aceptado las condiciones aquí establecidas.
+
+1. PROPIEDAD DEL SOFTWARE
+
+“Botón Micrófono” es un programa desarrollado y distribuido bajo la titularidad de SISTEMAS LY.
+
+Todos los derechos sobre el software, incluyendo su nombre, diseño, funcionamiento, código, interfaz y demás elementos asociados, pertenecen a SISTEMAS LY, salvo aquellos componentes de terceros que se encuentren sujetos a sus propias licencias.
+
+La instalación o utilización del programa no implica la transferencia de ningún derecho de propiedad intelectual al usuario.
+
+2. LICENCIA DE USO
+
+SISTEMAS LY concede al usuario una licencia limitada, revocable, no exclusiva e intransferible para instalar y utilizar “Botón Micrófono” únicamente para fines personales.
+
+El software es exclusivamente para USO PERSONAL Y NO COMERCIAL.
+
+Queda prohibido utilizar el programa, directa o indirectamente, con fines comerciales, empresariales, profesionales, publicitarios, de reventa, prestación de servicios remunerados, integración en productos comerciales o cualquier otra actividad destinada a generar beneficios económicos, salvo autorización expresa y por escrito de SISTEMAS LY.
+
+3. FUNCIONALIDAD DEL PROGRAMA
+
+“Botón Micrófono” está diseñado para facilitar al usuario el control de la transmisión de audio desde una entrada de micrófono hacia una salida de audio seleccionada.
+
+El programa puede permitir, entre otras funciones:
+
+* Seleccionar dispositivos de entrada de audio.
+* Seleccionar dispositivos de salida de audio.
+* Activar o desactivar la transmisión del audio.
+* Mostrar un botón flotante para controlar dicha función.
+
+El funcionamiento efectivo puede depender del sistema operativo, controladores, dispositivos de audio, permisos del sistema y configuraciones externas al programa.
+
+4. RESPONSABILIDAD DEL USUARIO
+
+El usuario es responsable del uso que realice del programa y de verificar que su utilización cumpla con las leyes, reglamentos y políticas aplicables.
+
+El usuario deberá respetar la privacidad de otras personas y obtener las autorizaciones necesarias cuando el uso de dispositivos de audio pueda implicar la captación, transmisión, reproducción o tratamiento de conversaciones, voces o cualquier otro contenido de terceros.
+
+SISTEMAS LY no autoriza el uso del programa para espionaje, interceptación no consentida de comunicaciones, vulneración de privacidad, acoso, actividades ilícitas o cualquier finalidad contraria a la legislación vigente.
+
+5. PRIVACIDAD Y AUDIO
+
+Salvo que una versión específica del programa indique expresamente lo contrario, “Botón Micrófono” está diseñado principalmente para controlar localmente dispositivos de audio del equipo del usuario.
+
+El usuario reconoce que determinados dispositivos, controladores, sistemas operativos o aplicaciones de terceros pueden procesar información o audio de forma independiente al programa.
+
+SISTEMAS LY no será responsable por el tratamiento de información realizado por software, servicios o dispositivos de terceros.
+
+6. PROHIBICIONES
+
+El usuario no podrá:
+
+* Vender, alquilar, sublicenciar o comercializar el programa.
+* Redistribuir el programa como parte de un producto o servicio comercial sin autorización.
+* Presentarse como propietario, autor o titular del software.
+* Eliminar o alterar avisos de propiedad o autoría incluidos en el programa.
+* Utilizar el programa con fines ilícitos.
+* Modificar, descompilar, realizar ingeniería inversa o intentar extraer el código fuente cuando ello esté prohibido por la legislación aplicable, salvo en los casos expresamente permitidos por ley.
+
+7. DISPONIBILIDAD Y ACTUALIZACIONES
+
+SISTEMAS LY podrá modificar, actualizar, mejorar, suspender o discontinuar total o parcialmente “Botón Micrófono” cuando lo considere necesario.
+
+No existe obligación de proporcionar actualizaciones, soporte técnico, mantenimiento permanente o compatibilidad con todas las versiones futuras de Windows, dispositivos de audio o controladores.
+
+8. EXCLUSIÓN DE GARANTÍAS
+
+“Botón Micrófono” se proporciona en el estado en que se encuentra y según disponibilidad.
+
+En la medida permitida por la legislación aplicable, SISTEMAS LY no garantiza que el programa:
+
+* Funcione sin interrupciones o errores.
+* Sea compatible con todos los equipos o dispositivos.
+* Mantenga compatibilidad permanente con futuras actualizaciones del sistema operativo.
+* Cumpla con necesidades específicas de todos los usuarios.
+* Evite completamente problemas derivados de configuraciones, controladores o programas de terceros.
+
+El usuario utiliza el programa bajo su propia responsabilidad.
+
+9. LIMITACIÓN DE RESPONSABILIDAD
+
+En la máxima medida permitida por la ley, SISTEMAS LY no será responsable por pérdidas de información, interrupciones, fallos de audio, incompatibilidades, daños indirectos, pérdida de oportunidades, pérdida de ingresos, problemas derivados de configuraciones incorrectas ni daños ocasionados por el uso indebido del programa.
+
+Esta limitación no será aplicable cuando la legislación vigente establezca responsabilidades que legalmente no puedan excluirse.
+
+10. SOFTWARE Y COMPONENTES DE TERCEROS
+
+El programa puede utilizar bibliotecas, herramientas, controladores, componentes o tecnologías desarrolladas por terceros.
+
+Dichos elementos podrán estar sujetos a términos de licencia independientes, los cuales conservarán plena vigencia conforme a las condiciones establecidas por sus respectivos titulares.
+
+11. TERMINACIÓN DE LA LICENCIA
+
+SISTEMAS LY podrá considerar terminada la licencia de uso cuando el usuario incumpla estos Términos y Condiciones.
+
+En ese supuesto, el usuario deberá dejar de utilizar el programa y, cuando corresponda, eliminar las copias instaladas.
+
+12. MODIFICACIONES DE ESTOS TÉRMINOS
+
+SISTEMAS LY podrá actualizar estos Términos y Condiciones cuando resulte necesario debido a cambios en el programa, requisitos legales, mejoras del servicio u otras circunstancias relevantes.
+
+Las versiones actualizadas podrán acompañar futuras versiones o actualizaciones del programa.
+
+13. ACEPTACIÓN
+
+Al seleccionar la opción “Acepto”, continuar con la instalación o utilizar “Botón Micrófono”, el usuario confirma que ha leído y acepta estos Términos y Condiciones.
+
+Si el usuario no está de acuerdo con cualquiera de estas condiciones, deberá cancelar la instalación y abstenerse de utilizar el programa.
+
+© 2026 SISTEMAS LY. Todos los derechos reservados.
